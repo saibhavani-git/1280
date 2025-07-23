@@ -1,0 +1,10 @@
+
+The nano command is a text editor that is installed by default on most Linux distributions, MacOS and you can even use it with Git Bash on Windows. It is very similar to the vim editor, but it is much easier to use.
+
+You can open an existing file to edit or create a new file and open it with:
+
+  nano [filename]
+
+When you're ready to exit, just hit Ctrl + X and then Y to save and N to not save.
+:qi
+
